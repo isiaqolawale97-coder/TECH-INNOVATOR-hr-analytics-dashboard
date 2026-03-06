@@ -21,5 +21,7 @@ This project analyzes employee workforce data to help organizations understand e
 * Training completion impacts employee performance  
 * Benefit utilization highlights employee engagement levels
 
-AUTHOR :
-Olawale Isiaq
+
+- ## Author
+*Olawale Isiaq*  
+Data Analyst | Excel | Tableau
